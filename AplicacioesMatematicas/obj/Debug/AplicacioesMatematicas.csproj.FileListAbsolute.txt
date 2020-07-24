@@ -1,0 +1,10 @@
+C:\Users\Mauricio Lòpez\Desktop\C#\AplicacioesMatematicas\AplicacioesMatematicas\bin\Debug\AplicacioesMatematicas.exe.config
+C:\Users\Mauricio Lòpez\Desktop\C#\AplicacioesMatematicas\AplicacioesMatematicas\bin\Debug\AplicacioesMatematicas.exe
+C:\Users\Mauricio Lòpez\Desktop\C#\AplicacioesMatematicas\AplicacioesMatematicas\bin\Debug\AplicacioesMatematicas.pdb
+C:\Users\Mauricio Lòpez\Desktop\C#\AplicacioesMatematicas\AplicacioesMatematicas\obj\Debug\AplicacioesMatematicas.csprojAssemblyReference.cache
+C:\Users\Mauricio Lòpez\Desktop\C#\AplicacioesMatematicas\AplicacioesMatematicas\obj\Debug\AplicacioesMatematicas.Form1.resources
+C:\Users\Mauricio Lòpez\Desktop\C#\AplicacioesMatematicas\AplicacioesMatematicas\obj\Debug\AplicacioesMatematicas.Properties.Resources.resources
+C:\Users\Mauricio Lòpez\Desktop\C#\AplicacioesMatematicas\AplicacioesMatematicas\obj\Debug\AplicacioesMatematicas.csproj.GenerateResource.cache
+C:\Users\Mauricio Lòpez\Desktop\C#\AplicacioesMatematicas\AplicacioesMatematicas\obj\Debug\AplicacioesMatematicas.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio Lòpez\Desktop\C#\AplicacioesMatematicas\AplicacioesMatematicas\obj\Debug\AplicacioesMatematicas.exe
+C:\Users\Mauricio Lòpez\Desktop\C#\AplicacioesMatematicas\AplicacioesMatematicas\obj\Debug\AplicacioesMatematicas.pdb
